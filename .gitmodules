@@ -1,0 +1,4 @@
+[submodule "raceblog/public"]
+	path = raceblog/public
+	url = https://github.com/raceee/raceee.github.io.git
+	branch = main
