@@ -1,4 +1,4 @@
-baseURL = 'https://raceee.github.io/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Race Peterson'
 theme="hugo-PaperMod"
