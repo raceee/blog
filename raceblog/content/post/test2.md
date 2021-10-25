@@ -10,9 +10,9 @@ Entertainment comes and goes, but the World of Warcraft community has lost the p
  
 ### Thesis 
 WoW  is a “static” game that gives players the freedom to choose how they want to play the game. In 2004 this was a great feature. Over time, the combination of freedom of choice, easily obtainable information/guides through the internet and game static-ness has bred these issues:
-Static MMORPG’s have outdated business models which force developers to nickel and dime players, and force developers to create monetizable content and not solve inundated problems.
-Static MMORPG’s emphasize the inequalities between player choices and drive competitive players to optimize the fun out of the game.
-Static MMORPG’s must have inconvenient systems in the game to extend play time resulting in a fragile suspension of disbelief towards the game generally.
+1. Static MMORPG’s have outdated business models which force developers to nickel and dime players, and force developers to create monetizable content and not solve inundated problems.
+2. Static MMORPG’s emphasize the inequalities between player choices and drive competitive players to optimize the fun out of the game.
+3. Static MMORPG’s must have inconvenient systems in the game to extend play time resulting in a fragile suspension of disbelief towards the game generally.
 The evolution for WoW (and MMORPG’s generally) must come by changing the game from static to dynamic.  Which we will do using machine learning. Changing to a dynamic system also propagates changes to gameplay that we will discuss as well.
 
 # Methodology
@@ -24,13 +24,11 @@ Maybe a quick run through of the typical gameplay loop
 
 ## A Creative Reintroduction
 Atop of the stats that gear gives you[image of a piece of gear], we will introduce what we will call a “Elemental Stat Line”. This “Elemental Stat Line” will act as the vector space that our dynamic game will look at to determine how to evolve and kill the community. The elements represented in this vector space should be familiar to players they are:
-Fire
-Ice
-Holy
-Shadow
-Elemental (yea i know fire and ice are elements but this is more like lightning damage, nature damage, poison damage)
-Physical
-Ranged
+* Fire
+* Ice
+* Holy
+* Shadow
+* Elemental (yea i know fire and ice are elements but this is more like lightning damage, nature damage, poison damage)
 Class specifications and gear now have buffs in these areas. If you collect only fire gear you will do more fire damage. You get gear from all previous dungeons, raids, and questlines retrofitted with modern difficulty.
 
 “LATEX MATH”
